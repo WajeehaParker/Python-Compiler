@@ -1,0 +1,12 @@
+b = 0
+c = b
+box_abc = c
+box_1
+box_abc_int_int, 2 Proc
+delabc
+a = 1
+T1 = c*2
+T2 = T1/5
+T3 = b+T2
+a = T3
+T4 = a+b
